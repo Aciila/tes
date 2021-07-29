@@ -1,3 +1,27 @@
 {
-  "id": "1",
-},
+    "id":"1",
+    "oldPrice":"12",
+    "newPrice":"12",
+    "images":[
+        "1",
+        "2",
+        "3"
+    ],
+    "color":[
+        {
+            "name":"red",
+            "hex":"#323232"
+        }
+    ],
+    "size":[
+        "XS",
+        "XM",
+        "41",
+        "39"
+    ],
+    "desc":"layout",
+    "name":"hello ppls",
+    "securityKey":"23",
+    "phone":"123123",
+    "logo":"245"
+}
